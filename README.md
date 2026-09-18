@@ -58,7 +58,7 @@ Tài liệu bao gồm các chủ đề chính sau:
 * **Người tự học yêu toán học:** Những ai muốn tìm hiểu sâu hơn về bản chất, ý nghĩa hình học và các bài toán thực tiễn liên quan đến tích phân.
 ---
 
-## 🔤 Quy ước kí hiệu Tích phân và Giải tích
+## 🔤 Quy ước kí hiệu
 
 * **$\int f(x) \, \mathrm{d}x$**: Nguyên hàm của hàm số $f(x)$.
 * **$\int_{a}^{b} f(x) \, \mathrm{d}x$**: Tích phân xác định của hàm số $f(x)$ trên đoạn $[a; b]$.
