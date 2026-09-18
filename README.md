@@ -15,23 +15,24 @@ Tài liệu bao gồm các chủ đề chính sau:
 3. Các công thức nguyên hàm, tích phân
 4. Các phương pháp tính tích phân
 
-### 2. Ứng dụng tích phân để tính diện tích hình phẳng
+### CHƯƠNG II: ỨNG DỤNG HÌNH HỌC CỦA TÍCH PHÂN
+#### 1. Ứng dụng tích phân để tính diện tích hình phẳng
 * Hình phẳng giới hạn bởi một đồ thị hàm số, trục hoành và hai đường thẳng $x = a, x = b$
 * Hình phẳng giới hạn bởi hai đồ thị hàm số và hai đường thẳng $x = a, x = b$
 
-### 3. Ứng dụng tích phân để tính thể tích vật thể
+#### 2. Ứng dụng tích phân để tính thể tích vật thể
 * Tính thể tích của vật thể
 * Tính thể tích khối tròn xoay
 
-### 4. Ứng dụng tích phân để tính diện tích mặt tròn xoay
+#### 3. Ứng dụng tích phân để tính diện tích mặt tròn xoay
 * Công thức tổng quát và các ví dụ áp dụng
 
-### 5. Ứng dụng tích phân để tính độ dài đường cong phẳng
+#### 4. Ứng dụng tích phân để tính độ dài đường cong phẳng
 * Trường hợp đường cong $AB$ cho bởi phương trình $y = f(x)$
 * Trường hợp đường cong $AB$ cho bởi phương trình tham số
 * Trường hợp đường cong $AB$ cho bởi phương trình trong toạ độ cực
 
-### 6. Một số bài tập ứng dụng hình học của tích phân
+#### 5. Một số bài tập ứng dụng hình học của tích phân
 * Bài tập cơ bản và nâng cao
 * Bài toán thực tế
 
@@ -72,4 +73,5 @@ Tài liệu bao gồm các chủ đề chính sau:
 
 1. **Sách giáo khoa Toán 12** (Bộ sách *Kết nối tri thức với cuộc sống* / *Chân trời sáng tạo*), Nhà xuất bản Giáo dục Việt Nam.
 2. **Bùi Xuân Diệu**, *Bài giảng Giải tích 1*.
-4. **Tài liệu lưu hành nội bộ & các nguồn toán học trực tuyến** (Hỗ trợ phương pháp biên soạn mã nguồn LaTeX và vẽ hình TikZ/pgfplots).
+3. **Tài liệu lưu hành nội bộ & các nguồn toán học trực tuyến** (Hỗ trợ phương pháp biên soạn mã nguồn LaTeX và vẽ hình TikZ/pgfplots).
+4. **Có sự hỗ trợ của google Gemini trong quá trình làm dự án.
