@@ -8,7 +8,7 @@
 - [ ] Tìm hiểu, đọc các tài liệu về dự án.
 - [ ] Viết mô tả chi tiết cho tệp `README.md`.
 
-### Tuần 1 - Giai đoạn 2: Bài tập & Minh họa TikZ (4 ngày)
+### Tuần 1 - Giai đoạn 2: Soạn thảo dự án và minh họa TikZ (4 ngày)
 - [ ] Soạn thảo phần mở đầu (lý do chọn đề tài).
 - [ ] Soạn thảo nội dung chương I.
 - [ ] Soạn thảo nội dung chương II.
@@ -20,7 +20,7 @@
 
 ## Tuần 2: Tối ưu hóa, kiểm tra & xuất bản
 
-### Tuần 2 - Giai đoạn 1: Đóng gói & rà soát lỗi (4 ngày)
+### Tuần 2 - Giai đoạn 1: Kết luận và rà soát lỗi (4 ngày)
 - [ ] Soạn thảo kết luận và tổng kết dự án.
 - [ ] Biên dịch toàn bộ tài liệu LaTeX, kiểm tra và sửa toàn bộ lỗi biên dịch (Warnings/Errors).
 - [ ] Tối ưu hóa định dạng, bố cục trang, font chữ và căn chỉnh vị trí các hình vẽ TikZ.
@@ -38,9 +38,9 @@
 - [x] Soạn thảo nội dung lý thuyết chương I.
 - [x] Soạn thảo nội dung lý thuyết chương II.
 - [x] Vẽ và tối ưu hóa các hình minh họa, đồ thị bằng công cụ TikZ/pgfplots (đồ thị hàm số, hàm lượng giác, ý nghĩa hình học tích phân)
-- [x] Hoàn thiện phần kết luận và tổng kết dự án
+- [x] Hoàn thiện phần kết luận và tổng kết dự án.
 
 ### Vấn đề cần giải quyết & Kế hoạch tiếp theo
 - [ ] Kiểm tra lỗi biên dịch toàn bộ tệp.
-- [ ] Xóa repository cũ và tạo mới, đồng bộ mã nguồn lên GitHub
-- [ ] Xuất tệp PDF chất lượng cao phục vụ nộp bài tập và giảng dạy
+- [ ] Xóa repository cũ và tạo mới, đồng bộ mã nguồn lên GitHub.
+- [ ] Xuất tệp PDF chất lượng cao phục vụ nộp bài tập và giảng dạy.
