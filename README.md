@@ -67,11 +67,10 @@ Tài liệu bao gồm các chủ đề chính sau:
 * **$f''(x), y''(x)$**: Đạo hàm cấp hai của hàm số.
 * **$\frac{\mathrm{d}y}{\mathrm{d}x}$**: Đạo hàm của hàm ẩn hoặc hàm theo dạng tham số.
 * **$C^1[a; b]$**: Không gian các hàm số liên tục và có đạo hàm liên tục trên đoạn $[a; b]$.
-* **$\lim$**: Kí hiệu giới hạn (dùng trong định nghĩa tích phân suy rộng hoặc tổng Riemann).
  ---
  ## 📖 Tài liệu tham khảo
 
 1. **Sách giáo khoa Toán 12** (Bộ sách *Kết nối tri thức với cuộc sống* / *Chân trời sáng tạo*), Nhà xuất bản Giáo dục Việt Nam.
 2. **Bùi Xuân Diệu**, *Bài giảng Giải tích 1*.
 3. **Tài liệu lưu hành nội bộ & các nguồn toán học trực tuyến** (Hỗ trợ phương pháp biên soạn mã nguồn LaTeX và vẽ hình TikZ/pgfplots).
-4. **Có sự hỗ trợ của google Gemini trong quá trình làm dự án.
+4. **Có sự hỗ trợ của google Gemini trong quá trình làm dự án**.
